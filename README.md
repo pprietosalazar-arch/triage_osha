@@ -10,7 +10,9 @@ app_file: app.py
 pinned: false
 ---
 
-# ¿Amerita inspección este reporte?
+# Vigía — triage de reportes de accidentes laborales
+
+¿Este reporte amerita una inspección en sitio?
 
 Pega la narrativa de un reporte de accidente laboral grave (en inglés). La app devuelve:
 
